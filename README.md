@@ -13,7 +13,7 @@ Node paket sistemenin, githubi ogrenmek.
 ~$ npm i yesilcam -S
 ```
 
-deneme.js dosyasinini icindeki kodu soyle;
+deneme.js dosyasinini icindeki kod soyle;
 ```js
 var yesil = require("yesilcam");
 
