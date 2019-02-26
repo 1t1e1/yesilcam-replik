@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/1t1e1/yesilcam-replik/issues"
   },
-  "homepage": "https://github.com/1t1e1/yesilcam-replik#readme"
+  "homepage": "https://github.com/1t1e1/yesilcam-replik#readme",
+  "dependencies": {
+    "unique-random-array": "^1.0.1"
+  }
 }
