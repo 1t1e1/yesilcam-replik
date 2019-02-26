@@ -1,0 +1,27 @@
+{
+  "name": "yesilcam",
+  "version": "1.0.0",
+  "description": "Rastgele yesilcam repliklere cikaran package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1t1e1/yesilcam-replik.git"
+  },
+  "keywords": [
+    "yesilcam",
+    "replik",
+    "ilk",
+    "node",
+    "learning",
+    "experimental"
+  ],
+  "author": "1t1e1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1t1e1/yesilcam-replik/issues"
+  },
+  "homepage": "https://github.com/1t1e1/yesilcam-replik#readme"
+}
