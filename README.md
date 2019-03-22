@@ -1,24 +1,22 @@
-# yesilcam-replik
+# Yesilcam Replik
 
 Onceden yazdigin yesilcam repliklerini rastgele yazdiriyor.
 
-## Amaci
+## Amac
 
-Node paket sistemenin, githubi ogrenmek.
+Deneysel, node package manageri ogrenmek. 
 
 ## Kullanimi
-
 
 ```console 
 ~$ npm i yesilcam -S
 ```
 
-deneme.js dosyasinini icindeki kod soyle;
+ornek.js dosyasinini icindeki kod;
 ```js
 var yesil = require("yesilcam");
 
 console.log(yesil.all);
-console.log('\n');  
 console.log(yesil.random());
 ```
 
@@ -31,7 +29,6 @@ console.log(yesil.random());
   'Biz ayrı dünyaların insanıyız',
   'Bedenime sahip olabilirsin ama ruhuma asla',
   'Hatırlar mısınız, bir zamanlar fakir ama gururlu bir genç vardı' ]
-
 
 Güzel olduğunuz kadar küstahsınız da
 ```
