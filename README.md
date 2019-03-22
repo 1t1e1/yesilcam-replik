@@ -21,7 +21,7 @@ console.log(yesil.random());
 ```
 
 ```shell 
-~$ node new.js
+~$ node ornek.js
 [ 'senin annen bir melekti yavrum.',
   'nayır nolamaz.',
   'bu da mı gol değil?',
